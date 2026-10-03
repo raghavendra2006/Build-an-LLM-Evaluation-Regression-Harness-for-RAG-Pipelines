@@ -1,0 +1,597 @@
+[
+  {
+    "id": "hotpot_001",
+    "generated_answer": "Microsoft.",
+    "retrieved_context_titles": [
+      "Apple Inc. History",
+      "Microsoft Origins",
+      "Silicon Valley Tech Companies",
+      "First Transcontinental Railroad History",
+      "Niels Bohr Physics Career"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 311.04
+    }
+  },
+  {
+    "id": "hotpot_002",
+    "generated_answer": "No.",
+    "retrieved_context_titles": [
+      "Inception Production Notes",
+      "Avatar Film Overview",
+      "American Civil War Timeline",
+      "Niels Bohr Physics Career",
+      "Statue of Liberty Dedication"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 365.81
+    }
+  },
+  {
+    "id": "hotpot_003",
+    "generated_answer": "Mexico City. Additionally, tangential historical records indicate further regional developments during this period.",
+    "retrieved_context_titles": [
+      "Denver Geography Facts",
+      "Mexico City Topography",
+      "New York City Population Statistics",
+      "Camp Nou Stadium Capacity",
+      "Acoustics Sound Velocity"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 313.36
+    }
+  },
+  {
+    "id": "hotpot_004",
+    "generated_answer": "Albert Einstein.",
+    "retrieved_context_titles": [
+      "Albert Einstein Nobel Award",
+      "Niels Bohr Physics Career",
+      "Nobel Prize Origins",
+      "First Transcontinental Railroad History",
+      "Herman Melville Publishing History"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 338.41
+    }
+  },
+  {
+    "id": "hotpot_005",
+    "generated_answer": "The Atlantic Ocean. Additionally, tangential historical records indicate further regional developments during this period.",
+    "retrieved_context_titles": [
+      "Atlantic Ocean Metrics",
+      "Indian Ocean Geographical Profile",
+      "Pacific Ocean Scale",
+      "India Total Territory Area",
+      "Australia Geographic Land Area"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 365.91
+    }
+  },
+  {
+    "id": "hotpot_006",
+    "generated_answer": "No. Additionally, tangential historical records indicate further regional developments during this period.",
+    "retrieved_context_titles": [
+      "George Orwell Biography",
+      "Aldous Huxley Life Summary",
+      "World War I Armistice",
+      "World War II Outbreak Timeline",
+      "Germany World Cup History"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 388.46
+    }
+  },
+  {
+    "id": "hotpot_007",
+    "generated_answer": "The Amazon River.",
+    "retrieved_context_titles": [
+      "Amazon River Length Analysis",
+      "Mississippi River Hydrography",
+      "Nile River System",
+      "American Civil War Timeline",
+      "First Transcontinental Railroad History"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 343.28
+    }
+  },
+  {
+    "id": "hotpot_008",
+    "generated_answer": "After.",
+    "retrieved_context_titles": [
+      "Apollo 11 Mission Timeline",
+      "First Transcontinental Railroad History",
+      "World War I Armistice",
+      "Herman Melville Publishing History",
+      "Niels Bohr Physics Career"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 371.01
+    }
+  },
+  {
+    "id": "hotpot_009",
+    "generated_answer": "Carbon. Additionally, tangential historical records indicate further regional developments during this period.",
+    "retrieved_context_titles": [
+      "Carbon Element Properties",
+      "Nitrogen Periodic Table Data",
+      "Periodic Table Trends",
+      "Golden Gate Bridge Specifications",
+      "Iron Metallurgy Properties"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 340.81
+    }
+  },
+  {
+    "id": "hotpot_010",
+    "generated_answer": "Wolfgang Amadeus Mozart. Additionally, tangential historical records indicate further regional developments during this period.",
+    "retrieved_context_titles": [
+      "Mozart Early Life",
+      "Beethoven Birth and Family",
+      "Classical Music Masters",
+      "Vincent van Gogh Biography",
+      "Leonardo da Vinci Chronology"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 358.43
+    }
+  },
+  {
+    "id": "hotpot_011",
+    "generated_answer": "Texas.",
+    "retrieved_context_titles": [
+      "Texas Statehood History",
+      "California Admission to Union",
+      "First Transcontinental Railroad History",
+      "Theodore Roosevelt Administration",
+      "Abraham Lincoln Presidency"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 370.83
+    }
+  },
+  {
+    "id": "hotpot_012",
+    "generated_answer": "Yes. Additionally, tangential historical records indicate further regional developments during this period.",
+    "retrieved_context_titles": [
+      "Mount Everest Topographic Data",
+      "K2 Elevation Profile",
+      "Himalayan Mountain Range",
+      "India Total Territory Area",
+      "Australia Geographic Land Area"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 378.08
+    }
+  },
+  {
+    "id": "hotpot_013",
+    "generated_answer": "Python.",
+    "retrieved_context_titles": [
+      "Python Development Timeline",
+      "Java Language Origins",
+      "First Transcontinental Railroad History",
+      "History of Computing Languages",
+      "Herman Melville Publishing History"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 298.98
+    }
+  },
+  {
+    "id": "hotpot_014",
+    "generated_answer": "After.",
+    "retrieved_context_titles": [
+      "Eiffel Tower Construction",
+      "Statue of Liberty Dedication",
+      "Niels Bohr Physics Career",
+      "First Transcontinental Railroad History",
+      "California Admission to Union"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 306.19
+    }
+  },
+  {
+    "id": "hotpot_015",
+    "generated_answer": "Mercury. Additionally, tangential historical records indicate further regional developments during this period.",
+    "retrieved_context_titles": [
+      "Mercury Orbital Parameters",
+      "Venus Solar Proximity",
+      "Solar System Inner Planets",
+      "Texas Statehood History",
+      "Human Liver Anatomy Stats"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 328.21
+    }
+  },
+  {
+    "id": "hotpot_016",
+    "generated_answer": "Yes.",
+    "retrieved_context_titles": [
+      "Alexander the Great Death",
+      "Julius Caesar Assassination",
+      "First Transcontinental Railroad History",
+      "Aldous Huxley Life Summary",
+      "Mercury Orbital Parameters"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 320.77
+    }
+  },
+  {
+    "id": "hotpot_017",
+    "generated_answer": "Brazil.",
+    "retrieved_context_titles": [
+      "Brazil National Football Team Achievements",
+      "Germany World Cup History",
+      "World War II Outbreak Timeline",
+      "World War I Armistice",
+      "World War Military Campaigns"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 335.83
+    }
+  },
+  {
+    "id": "hotpot_018",
+    "generated_answer": "Yes. Additionally, tangential historical records indicate further regional developments during this period.",
+    "retrieved_context_titles": [
+      "Speed of Light Constants",
+      "Acoustics Sound Velocity",
+      "Niels Bohr Physics Career",
+      "Akashi Kaikyo Bridge Engineering",
+      "Fundamental Physical Constants"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 385.81
+    }
+  },
+  {
+    "id": "hotpot_019",
+    "generated_answer": "Abraham Lincoln.",
+    "retrieved_context_titles": [
+      "Abraham Lincoln Presidency",
+      "Theodore Roosevelt Administration",
+      "First Transcontinental Railroad History",
+      "19th Century US Presidents",
+      "Herman Melville Publishing History"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 380.58
+    }
+  },
+  {
+    "id": "hotpot_020",
+    "generated_answer": "Yes. Additionally, tangential historical records indicate further regional developments during this period.",
+    "retrieved_context_titles": [
+      "Australia Geographic Land Area",
+      "India Total Territory Area",
+      "Global Landmass Distribution",
+      "Greenland Landmass Facts",
+      "Madagascar Island Geography"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 305.67
+    }
+  },
+  {
+    "id": "hotpot_021",
+    "generated_answer": "Leonardo da Vinci. Additionally, tangential historical records indicate further regional developments during this period.",
+    "retrieved_context_titles": [
+      "Leonardo da Vinci Chronology",
+      "Vincent van Gogh Biography",
+      "Renaissance Master Artists",
+      "Herman Melville Publishing History",
+      "Python Development Timeline"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 378.1
+    }
+  },
+  {
+    "id": "hotpot_022",
+    "generated_answer": "Before.",
+    "retrieved_context_titles": [
+      "Linux Kernel Release Records",
+      "Windows 95 OS Launch",
+      "Python Development Timeline",
+      "Java Language Origins",
+      "Herman Melville Publishing History"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 330.73
+    }
+  },
+  {
+    "id": "hotpot_023",
+    "generated_answer": "The liver.",
+    "retrieved_context_titles": [
+      "Human Liver Anatomy Stats",
+      "Human Brain Physical Characteristics",
+      "Human Internal Organs",
+      "Niels Bohr Physics Career",
+      "American Civil War Timeline"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 308.4
+    }
+  },
+  {
+    "id": "hotpot_024",
+    "generated_answer": "Yes. Additionally, tangential historical records indicate further regional developments during this period.",
+    "retrieved_context_titles": [
+      "World War I Armistice",
+      "World War II Outbreak Timeline",
+      "Germany World Cup History",
+      "World War Military Campaigns",
+      "American Civil War Timeline"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 330.59
+    }
+  },
+  {
+    "id": "hotpot_025",
+    "generated_answer": "African Elephant. Additionally, tangential historical records indicate further regional developments during this period.",
+    "retrieved_context_titles": [
+      "African Elephant Reproduction Cycle",
+      "Blue Whale Marine Biology",
+      "Nitrogen Periodic Table Data",
+      "Wildlife Biology and Mammals",
+      "Periodic Table Trends"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 363.42
+    }
+  },
+  {
+    "id": "hotpot_026",
+    "generated_answer": "No.",
+    "retrieved_context_titles": [
+      "Panama Canal Engineering Dimensions",
+      "Suez Canal Maritime Specs",
+      "Maritime Canals and Trade Routes",
+      "American Civil War Timeline",
+      "First Transcontinental Railroad History"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 375.66
+    }
+  },
+  {
+    "id": "hotpot_027",
+    "generated_answer": "Camp Nou. Additionally, tangential historical records indicate further regional developments during this period.",
+    "retrieved_context_titles": [
+      "Camp Nou Stadium Capacity",
+      "Wembley Stadium Infrastructure",
+      "European Football Stadiums",
+      "World War Military Campaigns",
+      "Golden Gate Bridge Specifications"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 345.79
+    }
+  },
+  {
+    "id": "hotpot_028",
+    "generated_answer": "No.",
+    "retrieved_context_titles": [
+      "Marie Curie Biographical Summary",
+      "Isaac Newton Early Life",
+      "Leonardo da Vinci Chronology",
+      "Vincent van Gogh Biography",
+      "Avatar Film Overview"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 310.55
+    }
+  },
+  {
+    "id": "hotpot_029",
+    "generated_answer": "Greenland.",
+    "retrieved_context_titles": [
+      "Greenland Landmass Facts",
+      "Madagascar Island Geography",
+      "India Total Territory Area",
+      "Global Islands and Geography",
+      "Australia Geographic Land Area"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 345.76
+    }
+  },
+  {
+    "id": "hotpot_030",
+    "generated_answer": "Yes. Additionally, tangential historical records indicate further regional developments during this period.",
+    "retrieved_context_titles": [
+      "Hubble Space Telescope Mission",
+      "JWST Launch Operations",
+      "Space Race History",
+      "Space Exploration History",
+      "Windows 95 OS Launch"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 375.82
+    }
+  },
+  {
+    "id": "hotpot_031",
+    "generated_answer": "Tungsten.",
+    "retrieved_context_titles": [
+      "Tungsten Physical Constants",
+      "Iron Metallurgy Properties",
+      "Carbon Element Properties",
+      "Nitrogen Periodic Table Data",
+      "Golden Gate Bridge Specifications"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 323.25
+    }
+  },
+  {
+    "id": "hotpot_032",
+    "generated_answer": "Yes.",
+    "retrieved_context_titles": [
+      "Tokyo Metropolitan Demographics",
+      "New York City Population Statistics",
+      "Mexico City Topography",
+      "Camp Nou Stadium Capacity",
+      "Acoustics Sound Velocity"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 345.75
+    }
+  },
+  {
+    "id": "hotpot_033",
+    "generated_answer": "Pride and Prejudice. Additionally, tangential historical records indicate further regional developments during this period.",
+    "retrieved_context_titles": [
+      "Jane Austen Bibliography",
+      "Herman Melville Publishing History",
+      "First Transcontinental Railroad History",
+      "Linux Kernel Release Records",
+      "Python Development Timeline"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 303.27
+    }
+  },
+  {
+    "id": "hotpot_034",
+    "generated_answer": "Yes.",
+    "retrieved_context_titles": [
+      "Chernobyl Event Timeline",
+      "Fukushima Daiichi Incident Overview",
+      "Nuclear Energy Incidents",
+      "American Civil War Timeline",
+      "First Transcontinental Railroad History"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 378.35
+    }
+  },
+  {
+    "id": "hotpot_035",
+    "generated_answer": "Akashi Kaikyo Bridge. Additionally, tangential historical records indicate further regional developments during this period.",
+    "retrieved_context_titles": [
+      "Golden Gate Bridge Specifications",
+      "Akashi Kaikyo Bridge Engineering",
+      "Structural Engineering Bridges",
+      "First Transcontinental Railroad History",
+      "American Civil War Timeline"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 320.94
+    }
+  }
+]
