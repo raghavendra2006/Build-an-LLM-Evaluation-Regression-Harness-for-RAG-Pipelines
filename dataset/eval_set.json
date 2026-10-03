@@ -1,0 +1,317 @@
+[
+  {
+    "id": "hotpot_001",
+    "question": "Which of the two tech companies was founded first: Apple Inc. or Microsoft?",
+    "ground_truth_answer": "Microsoft",
+    "ground_truth_context_titles": [
+      "Apple Inc. History",
+      "Microsoft Origins"
+    ]
+  },
+  {
+    "id": "hotpot_002",
+    "question": "Are the directors of Inception and Avatar from the same country?",
+    "ground_truth_answer": "No",
+    "ground_truth_context_titles": [
+      "Inception Production Notes",
+      "Avatar Film Overview"
+    ]
+  },
+  {
+    "id": "hotpot_003",
+    "question": "Which city has a higher elevation above sea level: Denver or Mexico City?",
+    "ground_truth_answer": "Mexico City",
+    "ground_truth_context_titles": [
+      "Denver Geography Facts",
+      "Mexico City Topography"
+    ]
+  },
+  {
+    "id": "hotpot_004",
+    "question": "Did Albert Einstein or Niels Bohr win the Nobel Prize in Physics first?",
+    "ground_truth_answer": "Albert Einstein",
+    "ground_truth_context_titles": [
+      "Albert Einstein Nobel Award",
+      "Niels Bohr Physics Career"
+    ]
+  },
+  {
+    "id": "hotpot_005",
+    "question": "Which ocean is larger in surface area: the Indian Ocean or the Atlantic Ocean?",
+    "ground_truth_answer": "The Atlantic Ocean",
+    "ground_truth_context_titles": [
+      "Atlantic Ocean Metrics",
+      "Indian Ocean Geographical Profile"
+    ]
+  },
+  {
+    "id": "hotpot_006",
+    "question": "Was the author of 1984 older than the author of Brave New World when they died?",
+    "ground_truth_answer": "No",
+    "ground_truth_context_titles": [
+      "George Orwell Biography",
+      "Aldous Huxley Life Summary"
+    ]
+  },
+  {
+    "id": "hotpot_007",
+    "question": "Which river is longer: the Amazon River or the Mississippi River?",
+    "ground_truth_answer": "The Amazon River",
+    "ground_truth_context_titles": [
+      "Amazon River Length Analysis",
+      "Mississippi River Hydrography"
+    ]
+  },
+  {
+    "id": "hotpot_008",
+    "question": "Did the Apollo 11 moon landing occur before or after the First Transcontinental Railroad was completed?",
+    "ground_truth_answer": "After",
+    "ground_truth_context_titles": [
+      "Apollo 11 Mission Timeline",
+      "First Transcontinental Railroad History"
+    ]
+  },
+  {
+    "id": "hotpot_009",
+    "question": "Which chemical element has a lower atomic number: Carbon or Nitrogen?",
+    "ground_truth_answer": "Carbon",
+    "ground_truth_context_titles": [
+      "Carbon Element Properties",
+      "Nitrogen Periodic Table Data"
+    ]
+  },
+  {
+    "id": "hotpot_010",
+    "question": "Who was born earlier: Wolfgang Amadeus Mozart or Ludwig van Beethoven?",
+    "ground_truth_answer": "Wolfgang Amadeus Mozart",
+    "ground_truth_context_titles": [
+      "Mozart Early Life",
+      "Beethoven Birth and Family"
+    ]
+  },
+  {
+    "id": "hotpot_011",
+    "question": "Which state entered the United States first: California or Texas?",
+    "ground_truth_answer": "Texas",
+    "ground_truth_context_titles": [
+      "Texas Statehood History",
+      "California Admission to Union"
+    ]
+  },
+  {
+    "id": "hotpot_012",
+    "question": "Is Mount Everest taller than Mount K2?",
+    "ground_truth_answer": "Yes",
+    "ground_truth_context_titles": [
+      "Mount Everest Topographic Data",
+      "K2 Elevation Profile"
+    ]
+  },
+  {
+    "id": "hotpot_013",
+    "question": "Which programming language was created first: Python or Java?",
+    "ground_truth_answer": "Python",
+    "ground_truth_context_titles": [
+      "Python Development Timeline",
+      "Java Language Origins"
+    ]
+  },
+  {
+    "id": "hotpot_014",
+    "question": "Was the Eiffel Tower built before or after the Statue of Liberty was dedicated?",
+    "ground_truth_answer": "After",
+    "ground_truth_context_titles": [
+      "Eiffel Tower Construction",
+      "Statue of Liberty Dedication"
+    ]
+  },
+  {
+    "id": "hotpot_015",
+    "question": "Which planet is closer to the Sun: Mercury or Venus?",
+    "ground_truth_answer": "Mercury",
+    "ground_truth_context_titles": [
+      "Mercury Orbital Parameters",
+      "Venus Solar Proximity"
+    ]
+  },
+  {
+    "id": "hotpot_016",
+    "question": "Did Alexander the Great die at a younger age than Julius Caesar?",
+    "ground_truth_answer": "Yes",
+    "ground_truth_context_titles": [
+      "Alexander the Great Death",
+      "Julius Caesar Assassination"
+    ]
+  },
+  {
+    "id": "hotpot_017",
+    "question": "Which country won more FIFA World Cup titles: Brazil or Germany?",
+    "ground_truth_answer": "Brazil",
+    "ground_truth_context_titles": [
+      "Brazil National Football Team Achievements",
+      "Germany World Cup History"
+    ]
+  },
+  {
+    "id": "hotpot_018",
+    "question": "Is the speed of light in a vacuum faster than the speed of sound in air?",
+    "ground_truth_answer": "Yes",
+    "ground_truth_context_titles": [
+      "Speed of Light Constants",
+      "Acoustics Sound Velocity"
+    ]
+  },
+  {
+    "id": "hotpot_019",
+    "question": "Which US President served first: Abraham Lincoln or Theodore Roosevelt?",
+    "ground_truth_answer": "Abraham Lincoln",
+    "ground_truth_context_titles": [
+      "Abraham Lincoln Presidency",
+      "Theodore Roosevelt Administration"
+    ]
+  },
+  {
+    "id": "hotpot_020",
+    "question": "Does Australia have a larger land mass area than India?",
+    "ground_truth_answer": "Yes",
+    "ground_truth_context_titles": [
+      "Australia Geographic Land Area",
+      "India Total Territory Area"
+    ]
+  },
+  {
+    "id": "hotpot_021",
+    "question": "Which painter lived earlier: Leonardo da Vinci or Vincent van Gogh?",
+    "ground_truth_answer": "Leonardo da Vinci",
+    "ground_truth_context_titles": [
+      "Leonardo da Vinci Chronology",
+      "Vincent van Gogh Biography"
+    ]
+  },
+  {
+    "id": "hotpot_022",
+    "question": "Was the Linux kernel released before or after Windows 95?",
+    "ground_truth_answer": "Before",
+    "ground_truth_context_titles": [
+      "Linux Kernel Release Records",
+      "Windows 95 OS Launch"
+    ]
+  },
+  {
+    "id": "hotpot_023",
+    "question": "Which organ in the human body is larger by weight: the liver or the brain?",
+    "ground_truth_answer": "The liver",
+    "ground_truth_context_titles": [
+      "Human Liver Anatomy Stats",
+      "Human Brain Physical Characteristics"
+    ]
+  },
+  {
+    "id": "hotpot_024",
+    "question": "Did World War I end before World War II started?",
+    "ground_truth_answer": "Yes",
+    "ground_truth_context_titles": [
+      "World War I Armistice",
+      "World War II Outbreak Timeline"
+    ]
+  },
+  {
+    "id": "hotpot_025",
+    "question": "Which mammal has a longer gestation period: an African Elephant or a Blue Whale?",
+    "ground_truth_answer": "African Elephant",
+    "ground_truth_context_titles": [
+      "African Elephant Reproduction Cycle",
+      "Blue Whale Marine Biology"
+    ]
+  },
+  {
+    "id": "hotpot_026",
+    "question": "Is the Panama Canal longer than the Suez Canal?",
+    "ground_truth_answer": "No",
+    "ground_truth_context_titles": [
+      "Panama Canal Engineering Dimensions",
+      "Suez Canal Maritime Specs"
+    ]
+  },
+  {
+    "id": "hotpot_027",
+    "question": "Which stadium has a larger seating capacity: Camp Nou or Wembley Stadium?",
+    "ground_truth_answer": "Camp Nou",
+    "ground_truth_context_titles": [
+      "Camp Nou Stadium Capacity",
+      "Wembley Stadium Infrastructure"
+    ]
+  },
+  {
+    "id": "hotpot_028",
+    "question": "Was Marie Curie born before Isaac Newton?",
+    "ground_truth_answer": "No",
+    "ground_truth_context_titles": [
+      "Marie Curie Biographical Summary",
+      "Isaac Newton Early Life"
+    ]
+  },
+  {
+    "id": "hotpot_029",
+    "question": "Which island is larger in surface area: Greenland or Madagascar?",
+    "ground_truth_answer": "Greenland",
+    "ground_truth_context_titles": [
+      "Greenland Landmass Facts",
+      "Madagascar Island Geography"
+    ]
+  },
+  {
+    "id": "hotpot_030",
+    "question": "Did the Hubble Space Telescope launch before the James Webb Space Telescope?",
+    "ground_truth_answer": "Yes",
+    "ground_truth_context_titles": [
+      "Hubble Space Telescope Mission",
+      "JWST Launch Operations"
+    ]
+  },
+  {
+    "id": "hotpot_031",
+    "question": "Which element has a higher melting point: Tungsten or Iron?",
+    "ground_truth_answer": "Tungsten",
+    "ground_truth_context_titles": [
+      "Tungsten Physical Constants",
+      "Iron Metallurgy Properties"
+    ]
+  },
+  {
+    "id": "hotpot_032",
+    "question": "Is Tokyo more populous than New York City?",
+    "ground_truth_answer": "Yes",
+    "ground_truth_context_titles": [
+      "Tokyo Metropolitan Demographics",
+      "New York City Population Statistics"
+    ]
+  },
+  {
+    "id": "hotpot_033",
+    "question": "Which novel was published first: Pride and Prejudice or Moby-Dick?",
+    "ground_truth_answer": "Pride and Prejudice",
+    "ground_truth_context_titles": [
+      "Jane Austen Bibliography",
+      "Herman Melville Publishing History"
+    ]
+  },
+  {
+    "id": "hotpot_034",
+    "question": "Did the Chernobyl disaster happen before the Fukushima Daiichi nuclear accident?",
+    "ground_truth_answer": "Yes",
+    "ground_truth_context_titles": [
+      "Chernobyl Event Timeline",
+      "Fukushima Daiichi Incident Overview"
+    ]
+  },
+  {
+    "id": "hotpot_035",
+    "question": "Which bridge is longer: the Golden Gate Bridge or the Akashi Kaikyo Bridge?",
+    "ground_truth_answer": "Akashi Kaikyo Bridge",
+    "ground_truth_context_titles": [
+      "Golden Gate Bridge Specifications",
+      "Akashi Kaikyo Bridge Engineering"
+    ]
+  }
+]
