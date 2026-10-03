@@ -1,0 +1,492 @@
+[
+  {
+    "id": "hotpot_001",
+    "generated_answer": "Microsoft.",
+    "retrieved_context_titles": [
+      "Silicon Valley Tech Companies",
+      "Apple Inc. History"
+    ],
+    "metrics": {
+      "recall": 0.5,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 143.94
+    }
+  },
+  {
+    "id": "hotpot_002",
+    "generated_answer": "No.",
+    "retrieved_context_titles": [
+      "Avatar Film Overview",
+      "Inception Production Notes"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 145.79
+    }
+  },
+  {
+    "id": "hotpot_003",
+    "generated_answer": "Mexico City.",
+    "retrieved_context_titles": [
+      "Mexico City Topography",
+      "New York City Population Statistics"
+    ],
+    "metrics": {
+      "recall": 0.5,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 144.82
+    }
+  },
+  {
+    "id": "hotpot_004",
+    "generated_answer": "Albert Einstein.",
+    "retrieved_context_titles": [
+      "Niels Bohr Physics Career",
+      "Albert Einstein Nobel Award"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 139.81
+    }
+  },
+  {
+    "id": "hotpot_005",
+    "generated_answer": "The Atlantic Ocean.",
+    "retrieved_context_titles": [
+      "Atlantic Ocean Metrics",
+      "Indian Ocean Geographical Profile"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 135.85
+    }
+  },
+  {
+    "id": "hotpot_006",
+    "generated_answer": "No.",
+    "retrieved_context_titles": [
+      "World War I Armistice",
+      "World War II Outbreak Timeline"
+    ],
+    "metrics": {
+      "recall": 0.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 154.96
+    }
+  },
+  {
+    "id": "hotpot_007",
+    "generated_answer": "The Amazon River.",
+    "retrieved_context_titles": [
+      "Mississippi River Hydrography",
+      "Amazon River Length Analysis"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 141.76
+    }
+  },
+  {
+    "id": "hotpot_008",
+    "generated_answer": "After.",
+    "retrieved_context_titles": [
+      "First Transcontinental Railroad History",
+      "Apollo 11 Mission Timeline"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 148.08
+    }
+  },
+  {
+    "id": "hotpot_009",
+    "generated_answer": "Carbon.",
+    "retrieved_context_titles": [
+      "Carbon Element Properties",
+      "Nitrogen Periodic Table Data"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 150.83
+    }
+  },
+  {
+    "id": "hotpot_010",
+    "generated_answer": "Wolfgang Amadeus Mozart.",
+    "retrieved_context_titles": [
+      "Mozart Early Life",
+      "Beethoven Birth and Family"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 137.87
+    }
+  },
+  {
+    "id": "hotpot_011",
+    "generated_answer": "Texas.",
+    "retrieved_context_titles": [
+      "Texas Statehood History",
+      "California Admission to Union"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 152.74
+    }
+  },
+  {
+    "id": "hotpot_012",
+    "generated_answer": "Yes.",
+    "retrieved_context_titles": [
+      "Mount Everest Topographic Data",
+      "Himalayan Mountain Range"
+    ],
+    "metrics": {
+      "recall": 0.5,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 140.52
+    }
+  },
+  {
+    "id": "hotpot_013",
+    "generated_answer": "Python.",
+    "retrieved_context_titles": [
+      "Java Language Origins",
+      "Python Development Timeline"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 143.69
+    }
+  },
+  {
+    "id": "hotpot_014",
+    "generated_answer": "After.",
+    "retrieved_context_titles": [
+      "Statue of Liberty Dedication",
+      "Eiffel Tower Construction"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 141.82
+    }
+  },
+  {
+    "id": "hotpot_015",
+    "generated_answer": "Mercury.",
+    "retrieved_context_titles": [
+      "Venus Solar Proximity",
+      "Mercury Orbital Parameters"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 130.62
+    }
+  },
+  {
+    "id": "hotpot_016",
+    "generated_answer": "Yes.",
+    "retrieved_context_titles": [
+      "Alexander the Great Death",
+      "Julius Caesar Assassination"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 152.74
+    }
+  },
+  {
+    "id": "hotpot_017",
+    "generated_answer": "Brazil.",
+    "retrieved_context_titles": [
+      "Germany World Cup History",
+      "Brazil National Football Team Achievements"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 148.73
+    }
+  },
+  {
+    "id": "hotpot_018",
+    "generated_answer": "Yes.",
+    "retrieved_context_titles": [
+      "Speed of Light Constants",
+      "Acoustics Sound Velocity"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 148.9
+    }
+  },
+  {
+    "id": "hotpot_019",
+    "generated_answer": "Abraham Lincoln.",
+    "retrieved_context_titles": [
+      "Theodore Roosevelt Administration",
+      "Abraham Lincoln Presidency"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 141.69
+    }
+  },
+  {
+    "id": "hotpot_020",
+    "generated_answer": "Yes.",
+    "retrieved_context_titles": [
+      "Australia Geographic Land Area",
+      "India Total Territory Area"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 136.76
+    }
+  },
+  {
+    "id": "hotpot_021",
+    "generated_answer": "Leonardo da Vinci.",
+    "retrieved_context_titles": [
+      "Vincent van Gogh Biography",
+      "Leonardo da Vinci Chronology"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 135.73
+    }
+  },
+  {
+    "id": "hotpot_022",
+    "generated_answer": "Before.",
+    "retrieved_context_titles": [
+      "Linux Kernel Release Records",
+      "Windows 95 OS Launch"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 0,
+      "latency_ms": 146.68
+    }
+  },
+  {
+    "id": "hotpot_023",
+    "generated_answer": "The liver.",
+    "retrieved_context_titles": [
+      "Human Liver Anatomy Stats",
+      "Human Brain Physical Characteristics"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 147.83
+    }
+  },
+  {
+    "id": "hotpot_024",
+    "generated_answer": "Yes.",
+    "retrieved_context_titles": [
+      "World War I Armistice",
+      "World War II Outbreak Timeline"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 131.54
+    }
+  },
+  {
+    "id": "hotpot_025",
+    "generated_answer": "African Elephant.",
+    "retrieved_context_titles": [
+      "Blue Whale Marine Biology",
+      "African Elephant Reproduction Cycle"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 149.86
+    }
+  },
+  {
+    "id": "hotpot_026",
+    "generated_answer": "No.",
+    "retrieved_context_titles": [
+      "Suez Canal Maritime Specs",
+      "Panama Canal Engineering Dimensions"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 149.59
+    }
+  },
+  {
+    "id": "hotpot_027",
+    "generated_answer": "Camp Nou.",
+    "retrieved_context_titles": [
+      "Camp Nou Stadium Capacity",
+      "Wembley Stadium Infrastructure"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 147.69
+    }
+  },
+  {
+    "id": "hotpot_028",
+    "generated_answer": "No.",
+    "retrieved_context_titles": [
+      "Marie Curie Biographical Summary",
+      "Isaac Newton Early Life"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 133.72
+    }
+  },
+  {
+    "id": "hotpot_029",
+    "generated_answer": "Greenland.",
+    "retrieved_context_titles": [
+      "Madagascar Island Geography",
+      "Greenland Landmass Facts"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 133.35
+    }
+  },
+  {
+    "id": "hotpot_030",
+    "generated_answer": "Yes.",
+    "retrieved_context_titles": [
+      "Hubble Space Telescope Mission",
+      "Space Race History"
+    ],
+    "metrics": {
+      "recall": 0.5,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 144.77
+    }
+  },
+  {
+    "id": "hotpot_031",
+    "generated_answer": "Tungsten.",
+    "retrieved_context_titles": [
+      "Iron Metallurgy Properties",
+      "Tungsten Physical Constants"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 148.79
+    }
+  },
+  {
+    "id": "hotpot_032",
+    "generated_answer": "Yes.",
+    "retrieved_context_titles": [
+      "New York City Population Statistics",
+      "Tokyo Metropolitan Demographics"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 132.59
+    }
+  },
+  {
+    "id": "hotpot_033",
+    "generated_answer": "Pride and Prejudice.",
+    "retrieved_context_titles": [
+      "Jane Austen Bibliography",
+      "First Transcontinental Railroad History"
+    ],
+    "metrics": {
+      "recall": 0.5,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 142.39
+    }
+  },
+  {
+    "id": "hotpot_034",
+    "generated_answer": "Yes.",
+    "retrieved_context_titles": [
+      "Fukushima Daiichi Incident Overview",
+      "Chernobyl Event Timeline"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 148.44
+    }
+  },
+  {
+    "id": "hotpot_035",
+    "generated_answer": "Akashi Kaikyo Bridge.",
+    "retrieved_context_titles": [
+      "Akashi Kaikyo Bridge Engineering",
+      "Golden Gate Bridge Specifications"
+    ],
+    "metrics": {
+      "recall": 1.0,
+      "correctness": 1,
+      "groundedness": 1,
+      "latency_ms": 138.23
+    }
+  }
+]
